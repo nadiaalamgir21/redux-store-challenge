@@ -1,5 +1,5 @@
 
-## REACT Redux Sore Challenge
+## REACT Redux Store Challenge
 
 Is a e-commerce project whose frontend is created in react.js and redux is used to manage the complete state of the project backend is developed in node.js using express, graphql and mongodb is being used as datbase service.
 
