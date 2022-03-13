@@ -1,33 +1,38 @@
 ## REACT Redux Sore Challenge
+Is a e-commerce project whose frontend is created in react.js and redux is used to manage the complete state of the project backend is developed in node.js using express, graphql and mongodb is being used as datbase service. 
+
+## Deployed Application
+
+https://nadia-redux-shop.herokuapp.com => link to deployed application
 
 
-
-## Demo
-
-
-
-## Table of contents
-
-
-
-
-- [REACT Redux Sore Challenge](#react-redux-sore-challenge)
-- [Demo](#demo)
-- [Table of contents](#table-of-contents)
-- [Snapshot](#snapshot)
-- [Usage Tips](#usage-tips)
-- [Licenses](#licenses)
-- [Install Command](#install-command)
-  - [npm install command will install javascript dependencies](#npm-install-command-will-install-javascript-dependencies)
-- [Test Command](#test-command)
-- [Contributing](#contributing)
-- [Questions](#questions)
-
-
-
-<a name="snapshot"></a>
 ## Snapshot
 
+
+
+### User Story
+
+```text
+AS a senior engineer working on an e-commerce platform
+I WANT my platform to use Redux to manage global state instead of the Context API
+SO THAT my website's state management is taken out of the React ecosystem
+```
+
+### Acceptance Criteria
+
+```text
+GIVEN an e-commerce platform that uses Redux to manage global state
+WHEN I review the app’s store
+THEN I find that the app uses a Redux store instead of the Context API
+WHEN I review the way the React front end accesses the store
+THEN I find that the app uses a Redux provider
+WHEN I review the way the app determines changes to its global state
+THEN I find that the app passes reducers to a Redux store instead of using the Context API
+WHEN I review the way the app extracts state data from the store
+THEN I find that the app uses Redux instead of the Context API
+WHEN I review the way the app dispatches actions
+THEN I find that the app uses Redux instead of the Context API
+```
 
 
 
