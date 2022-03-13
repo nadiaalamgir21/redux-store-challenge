@@ -1,13 +1,13 @@
 
 ## REACT Redux Store Challenge
 
-Is a e-commerce project whose frontend is created in react.js and redux is used to manage the complete state of the project backend is developed in node.js using express, graphql and mongodb is being used as datbase service.
+## Description
+
+Is an e-commerce project whose frontend is created in react.js and redux is used to store and manage the complete state of the project , backend is developed in node.js using express, graphql and mongodb is being used as database service.
 
   
 
 ## Deployed Application
-
-  
 
 https://nadia-redux-shop.herokuapp.com => link to deployed application
 
